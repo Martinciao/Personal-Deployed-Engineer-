@@ -21,4 +21,4 @@
 - 内部迭代沿革：v1（诊断版）→ v2（增加工作流还原）→ v3（八项检查 + 不打总分 + SOP 当场生成）；对外发布版本号从 v1.0.0 重新起算。
 - Demo 截图为二进制资产，随发布包分发，不入 git 库。
 
-[1.0.0]: https://github.com/Martinciao/workbuddy-skills/releases/tag/personal-ai-fde-v1.0.0
+[1.0.0]: https://github.com/Martinciao/Personal-Deployed-Engineer-/releases/tag/personal-ai-fde-v1.0.0

@@ -60,11 +60,11 @@ An Agent Skill for [WorkBuddy](https://www.workbuddy.cn)（兼容 Claude Code / 
 把 `personal-ai-fde/` 放入 skills 目录即可：
 
 ```bash
-git clone https://github.com/Martinciao/workbuddy-skills.git
+git clone https://github.com/Martinciao/Personal-Deployed-Engineer-.git
 # 用户级
-cp -r workbuddy-skills/skills/personal-ai-fde ~/.workbuddy/skills/personal-ai-fde
+cp -r Personal-Deployed-Engineer-/skills/personal-ai-fde ~/.workbuddy/skills/personal-ai-fde
 # 或项目级
-cp -r workbuddy-skills/skills/personal-ai-fde <workspace>/.workbuddy/skills/personal-ai-fde
+cp -r Personal-Deployed-Engineer-/skills/personal-ai-fde <workspace>/.workbuddy/skills/personal-ai-fde
 ```
 
 ## 🚀 Quick start
@@ -127,7 +127,7 @@ python3 -m pytest tests/test_skill_v1.py -q   # 20 例：脱敏 / 转义 / 渲�
 
 ## 📄 License
 
-[MIT](LICENSE) © 2026 柘泰宇 (Martin Zhe)
+[MIT](LICENSE) © 2026 Martin Zhe
 
 ---
 

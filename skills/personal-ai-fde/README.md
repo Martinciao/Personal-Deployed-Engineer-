@@ -31,6 +31,8 @@ An Agent Skill for [WorkBuddy](https://www.workbuddy.cn)（兼容 Claude Code / 
 
 ![证据与历史](docs/screenshots/06-evidence-history.png)
 
+> 注：`docs/screenshots/` 为二进制资产，随 `.skill` 发布包分发，git 库中不收录。
+
 ## ✨ What it does
 
 - 🔍 **只读扫描**：解析本机 WorkBuddy / Claude Code / CodeBuddy 主会话日志。382 个会话 401MB 全量约 8 秒，mtime 增量缓存重扫 <1 秒。
@@ -58,10 +60,11 @@ An Agent Skill for [WorkBuddy](https://www.workbuddy.cn)（兼容 Claude Code / 
 把 `personal-ai-fde/` 放入 skills 目录即可：
 
 ```bash
+git clone https://github.com/Martinciao/workbuddy-skills.git
 # 用户级
-git clone https://github.com/<your-name>/personal-ai-fde.git ~/.workbuddy/skills/personal-ai-fde
+cp -r workbuddy-skills/skills/personal-ai-fde ~/.workbuddy/skills/personal-ai-fde
 # 或项目级
-git clone https://github.com/<your-name>/personal-ai-fde.git <workspace>/.workbuddy/skills/personal-ai-fde
+cp -r workbuddy-skills/skills/personal-ai-fde <workspace>/.workbuddy/skills/personal-ai-fde
 ```
 
 ## 🚀 Quick start

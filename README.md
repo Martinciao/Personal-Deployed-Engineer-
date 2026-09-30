@@ -3,7 +3,7 @@
 **Don't count AI usage. Diagnose the workflow.**
 **把 AI 当工作搭子，而不是只统计使用次数。**
 
-`personal-ai-fde` 是一个开源 Agent Skill（兼容 WorkBuddy / Claude Code / CodeBuddy 通用的 `SKILL.md` 规范）：**只读扫描你本机的 AI 会话日志，把半年的 AI 协作还原成一张看得懂的工作流全景图**——AI 已经在做哪一步、你还在亲自补哪一步、哪里在反复返工——并当场为每个可优化环节生成一份可以马上试跑的 SOP。
+`personal-ai-fde` 是一个开源 Agent Skill（兼容 WorkBuddy / Claude Code / CodeBuddy 通用的 `SKILL.md` 规范）：**只读扫描你本机的 AI 会话日志，把近期的 AI 协作还原成一张看得懂的工作流全景图**——AI 已经在做哪一步、你还在亲自补哪一步、哪里在反复返工——并当场为每个可优化环节生成一份可以马上试跑的 SOP。
 
 ![回顾总览](skills/personal-ai-fde/docs/screenshots/01-review-dashboard.png)
 

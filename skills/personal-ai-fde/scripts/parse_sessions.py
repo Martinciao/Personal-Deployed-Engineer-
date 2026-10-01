@@ -27,7 +27,7 @@ import argparse, glob, json, os, re, sys, time, random
 from collections import Counter, defaultdict
 from datetime import datetime
 
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 CACHE_V = "1.0.0"  # 解析逻辑或脱敏规则变化时递增，使旧缓存失效
 CACHE_TTL_DAYS = 90  # 缓存条目最长保留天数，超期自动重解析（派生数据不做无限期留存）
 HOME = os.path.expanduser("~")

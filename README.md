@@ -33,7 +33,7 @@
 
 | Skill | 版本 | 状态 | 说明 |
 |---|---|---|---|
-| [personal-ai-fde](skills/personal-ai-fde/) | v1.0.0 | 稳定 | 个人 FDE 工作流诊断：工作流还原、人机分工、SOP 当场生成 |
+| [personal-ai-fde](skills/personal-ai-fde/) | v1.1.0 | 稳定 | 个人 FDE 工作流诊断：工作流还原、人机分工、SOP 当场生成 |
 
 ## 📸 更多截图
 
